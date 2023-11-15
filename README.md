@@ -30,7 +30,7 @@ Other resources:
 
 [ProQuest](https://www.proquest.com/docview/2568539566)
 
-[Copy in this repo](https://github.com/miemiemmmm/MPhilThesis/blob/main/Thesis.pdf)
+[Copy in this repo](Thesis.pdf)
 
 ## Citation
 ```

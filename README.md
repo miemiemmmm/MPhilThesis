@@ -1,8 +1,11 @@
 # MPhilThesis
-This is the MPhil thesis of Yang Zhang, supervised by Dr. Richard Bryce and Dr. Neil Burton at the University of Manchester.
 
 ## Thesis Title
-Simulation of protein dynamics for mechanistic insight and drug design
+[Simulation of protein dynamics for mechanistic insight and drug design](https://www.escholar.manchester.ac.uk/uk-ac-man-scw:323328)
+
+This is the MPhil thesis of [Yang Zhang](https://miemiemmmm.github.io/), supervised by [Dr. Richard Bryce](https://research.manchester.ac.uk/en/persons/richard.bryce) 
+and [Dr. Neil Burton](https://personalpages.manchester.ac.uk/staff/neil.burton/) at the [University of Manchester](https://www.manchester.ac.uk/).
+Special thanks for [Dr. Rupesh Chikhale](https://www.linkedin.com/in/rupesh-chikhale-b514b597/) for mentoring in the early stage of the project.
 
 ## Abstract
 Wnt pathway is a key cellular signal responsible for carcinogenesis and embryonic development. Excessive Wnt signal induces intracellular accumulation of beta-catenin which improves DNA replication and cell abnormal proliferation. 

@@ -33,7 +33,7 @@ Other resources:
 
 [ProQuest](https://www.proquest.com/docview/2568539566)
 
-[Copy in this repo](http://raw.githubusercontent.com/miemiemmmm/MPhilThesis/master/Thesis.pdf)
+[Copy in this repo](Thesis.pdf)
 
 ## Citation
 ```
